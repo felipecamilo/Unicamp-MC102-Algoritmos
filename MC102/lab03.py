@@ -3,7 +3,7 @@
 
 # In[5]:
 
-
+# ENUNCIADO: https://susy.ic.unicamp.br:9999/mc102/03/enunciado.html
 ###################################################
 # MC102 - Algoritmos e Programação de Computadores
 # Laboratório 3 - Ingresso do Cinema
