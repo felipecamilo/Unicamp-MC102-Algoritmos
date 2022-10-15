@@ -1,3 +1,5 @@
+# ENUNCIADO: https://susy.ic.unicamp.br:9999/mc102/01/enunciado.html
+
 ###################################################
 # MC102 - Algoritmos e Programação de Computadores
 # Laboratório 1 - Aritmética com Inteiros
