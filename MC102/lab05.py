@@ -1,3 +1,5 @@
+# ENUNCIADO: https://susy.ic.unicamp.br:9999/mc102/05/enunciado.html
+
 ##################################################
 # MC102 - Algoritmos e Programação de Computadores
 # Laboratório 5 - Jornada de Trabalho
