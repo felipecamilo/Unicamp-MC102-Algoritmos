@@ -1,3 +1,5 @@
+#ENUNCIADO: https://susy.ic.unicamp.br:9999/mc102/10/enunciado.html
+
 #####################################################
 # MC102 - Algoritmos e Programação de Computadores
 # Laboratório 10 - Caça ao Tesouro
